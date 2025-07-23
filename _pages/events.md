@@ -4,4 +4,4 @@ layout: single
 permalink: /events/
 ---
 
-Exciting new events coming soon 
+Exciting new events coming soon!
