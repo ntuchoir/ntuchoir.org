@@ -9,4 +9,3 @@ This is the about page.
 
 ---
 
-Create About page
