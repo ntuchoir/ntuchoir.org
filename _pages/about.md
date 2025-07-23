@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-Welcome to our choir! 🎶  
+Welcome to NTU Choir! 🎶  
 This is the about page.
 
 ---
