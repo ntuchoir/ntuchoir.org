@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: NTU Choir 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "The Nanyang Technological University Choir (NTU Choir) was set up in 1989 to promote choral awareness among the varsity population and beyond"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+
+url: "https://ntuchoir.org"   # later switch to custom domain
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : NTU Choir
+  avatar : "/assets/images/choir-photo.jpg"
+  bio    : "Since its birth in 1989, the Nanyang Technological University (NTU) Choir has entertained local and international audiences"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,15 +78,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/ntuchoir/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/c/ntuchoir_cac"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/ntuchoir/"
 
 defaults:
   # _posts
